@@ -2,14 +2,15 @@
 
 <h2 align='center'>My favorite languages and tools</i></h2>
 <p align="center">
- 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg"></code>
-  <code><img width="50%" src="https://github.com/JetBrains/logos/blob/master/web/jetbrains/jetbrains-simple.svg"></code>
+  <code><img width="4%" src="https://cdn.cdnlogo.com/logos/c/76/c.svg"></code>
+  <code><img width="5%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
+  <code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+ <code><img width="9%" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"></code>
+  <code><img width="5%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"></code>  
+  <br/>
+  <code><img width="4.5%" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Budgie.svg"></code>
+  <code><img width="4%" src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg"></code>
+  <code><img width="4%" src="https://github.com/JetBrains/logos/blob/master/web/jetbrains/jetbrains-simple.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
