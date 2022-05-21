@@ -9,7 +9,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg"></code>
-  <code><img width="50%" src="https://www.jetbrains.com/company/brand/img/logo6.svg"></code>
+  <code><img width="50%" src="https://github.com/JetBrains/logos/blob/master/web/jetbrains/jetbrains-simple.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
