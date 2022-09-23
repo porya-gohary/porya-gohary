@@ -1,4 +1,6 @@
-<h1 align='center'> Hi there 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+Pourya!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</h1>
 
 <h2 align='center'>My favorite languages and tools</i></h2>
 <p align="center">
