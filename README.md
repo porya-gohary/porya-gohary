@@ -1,6 +1,9 @@
-<h1 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+Pourya!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
-</h1>
+</p>
+
+- 🔭 I am currently working on my Ph.D. at the [TU/e](https://www.tue.nl/en/).
+- 🌱 I’m currently learning GO and Rust.
 
 <h2 align='center'>My favorite languages and tools</i></h2>
 <p align="center">
@@ -19,22 +22,26 @@
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"></code>
 </p>
 
-<h2 align='center'><i>Fight against the ugliness.</i></h2>
 
 
-<!--
-**porya-gohary/porya-gohary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+<!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porya-gohary)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<h2 align='center'>Quick stats about me</i></h2>
+<div align="center">
+  
+  
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Github stats](https://github-readme-stats.vercel.app/api?username=porya-gohary&show_icons=true&theme=github_dark&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porya-gohary&show_icons=true&theme=github_dark&count_private=true&layout=compact) |
+  
+</div>
+
+<p align='center'><i>Fight against the ugliness.</i></p>
