@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+Pourya!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+Pourya!;Smile!+📸&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 - 🔭 I am currently working on my Ph.D. at the [TU/e](https://www.tue.nl/en/).
 - 🌱 I’m currently learning GO and Rust.
+- 📷️ I'm a photography enthusiast.
+- 😄 Pronouns: he / his
+
 
 <h2 align='center'>My favorite languages and tools</i></h2>
 <p align="center">
