@@ -43,7 +43,7 @@
   
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Github stats](https://github-readme-stats.vercel.app/api?username=porya-gohary&show_icons=true&theme=github_dark&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porya-gohary&show_icons=true&langs_count=8&theme=github_dark&layout=compact) |
+| ![Github stats](https://github-readme-stats.vercel.app/api?username=porya-gohary&show_icons=true&theme=github_dark&rank_icon=github&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porya-gohary&show_icons=true&langs_count=8&theme=github_dark&layout=compact) |
   
 </div>
 
