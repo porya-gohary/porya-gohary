@@ -5,7 +5,6 @@
 - 🔭 I am currently working on my Ph.D. at the [TU/e](https://www.tue.nl/en/).
 - 🌱 I’m currently learning GO and Rust.
 - 📷️ I'm a photography enthusiast.
-- 😄 Pronouns: he / his
 
 
 <h2 align='center'>My favorite languages and tools</i></h2>
