@@ -12,15 +12,17 @@
   <code><img width="4%" src="https://cdn.cdnlogo.com/logos/c/76/c.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
- <code><img width="9%" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"></code>  
+  <code><img width="9%" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"></code>
+  <a href="https://github.com#gh-light-mode-only"><code><img width="5%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"></code></a>
+  <a href="https://github.com#gh-dark-mode-only"><code><img width="5%" src="https://res.cloudinary.com/skillsmatter/image/upload/c_crop,g_custom/v1663934361/df9mcer6d5zwj9hebqkk.png"></code></a>
   <br/>
   <code><img width="4.5%" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Budgie.svg"></code>
   <code><img width="4%" src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg"></code>
   <code><img width="4%" src="https://github.com/JetBrains/logos/blob/master/web/jetbrains/jetbrains-simple.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
+  <a href="https://github.com#gh-light-mode-only"><code><img width="5%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code></a>
+  <a href="https://github.com#gh-dark-mode-only"><code><img width="4.5%" src="https://bashlogo.com/img/symbol/png/full_colored_light.png"></code></a>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"></code>
 </p>
 
