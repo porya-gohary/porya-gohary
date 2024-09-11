@@ -18,7 +18,7 @@
   <br/>
   <code><img width="4.5%" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Budgie.svg"></code>
   <code><img width="4%" src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg"></code>
-  <code><img width="4%" src="https://github.com/JetBrains/logos/blob/master/web/jetbrains/jetbrains-simple.svg"></code>
+  <code><img width="4%" src="https://raw.githubusercontent.com/JetBrains/logos/451e1f9013822ee4163fcac310f96d93e2791091/web/jetbrains/jetbrains-simple.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
   <a href="https://github.com#gh-light-mode-only"><code><img width="5%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code></a>
