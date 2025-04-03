@@ -23,7 +23,7 @@
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
   <a href="https://github.com#gh-light-mode-only"><code><img width="5%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code></a>
   <a href="https://github.com#gh-dark-mode-only"><code><img width="4.5%" src="https://bashlogo.com/img/symbol/png/full_colored_light.png"></code></a>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"></code>
+  <code><img width="5%" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vim-icon.svg"></code>
 </p>
 
 
