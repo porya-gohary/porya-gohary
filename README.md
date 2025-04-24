@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+Pourya!;Smile!+📸&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+<!--   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+Pourya!;Smile!+📸&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000"> -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=380&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Pourya!;Smile!+%F0%9F%93%B8" alt="Typing SVG" /></a>
 </p>
 
 - 🔭 I am currently working on my Ph.D. at the [TU/e](https://www.tue.nl/en/).
